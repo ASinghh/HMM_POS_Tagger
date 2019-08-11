@@ -33,13 +33,13 @@ rather than independent of each other. Recently, hidden Markov models have been 
 triplet Markov models which allow consideration of more complex data structures and the modeling of nonstationary data.
 
 
-
+<br/>
 
 ## Data
 Brown Corpus is used to train the model. The Brown University Standard Corpus of Present-Day American English (or just Brown Corpus) was compiled in the 1960s by Henry Kučera and W. Nelson Francis at Brown University, Providence, Rhode Island as a general corpus (text collection) in the field of corpus linguistics. It contains 500 samples of English-language text, totaling roughly one million words, compiled from works published in the United States in 1961. Brown corpus is accessed using the Natural Language Tool Kit (NLTK) package. Preprocessed tag and word files were used from the Udacity workspace.
 
 
-
+<br/>
 
 
 ## Modelling Software
@@ -59,13 +59,13 @@ Pyhton
 
 
 
-
+<br/>
 
 ## Hardware
 * Udacity's GPU workspace
  
 
-
+<br/>
 
 
 ## Results
@@ -80,7 +80,7 @@ We Observed the following results from the modelling exercise
 * Hidden Markov Model Tagger    0.9594
 
 
-
+<br/>
 
 
 
