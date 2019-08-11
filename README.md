@@ -54,17 +54,17 @@ Pyhton
 * Udacity's GPU workspace
  
 
-# Results
+## Results
 We Observed the following results from the modelling exercise
 
-## Training Accuracies
+### Training Accuracies
 * Most Frequent Class Tagger    0.9572
 * Hidden Markov Model Tagger    0.9753
 
-## Testing Accuracies
+### Testing Accuracies
 * Most Frequent Class Tagger    0.9302
 * Hidden Markov Model Tagger    0.9594
 
 
-# Conclusion
+## Conclusion
 Hidden Markov Model performs better than the Most Frequent Class Tagger. Achieved a test accuracy of 95.94%
