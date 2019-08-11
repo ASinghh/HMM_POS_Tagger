@@ -4,6 +4,8 @@ Language Processing Nanodegree. Project starts with Most Frequent Class Tagger a
 of Hidden Markov model using probability functions which are also defined in the same notebook. Smoothing and other
 performance enhancing methods are also explored in the notebook.
 
+
+
 ## Hidden Markov Models
 Hidden Markov Model (HMM) is a statistical Markov model in which the system being modeled is assumed to be a Markov process
 with unobservable (i.e. hidden) states.
@@ -30,8 +32,14 @@ variables), which control the mixture component to be selected for each observat
 rather than independent of each other. Recently, hidden Markov models have been generalized to pairwise Markov models and 
 triplet Markov models which allow consideration of more complex data structures and the modeling of nonstationary data.
 
+
+
+
 ## Data
 Brown Corpus is used to train the model. The Brown University Standard Corpus of Present-Day American English (or just Brown Corpus) was compiled in the 1960s by Henry Kučera and W. Nelson Francis at Brown University, Providence, Rhode Island as a general corpus (text collection) in the field of corpus linguistics. It contains 500 samples of English-language text, totaling roughly one million words, compiled from works published in the United States in 1961. Brown corpus is accessed using the Natural Language Tool Kit (NLTK) package. Preprocessed tag and word files were used from the Udacity workspace.
+
+
+
 
 
 ## Modelling Software
@@ -50,9 +58,15 @@ Pyhton
 * Helper.py
 
 
+
+
+
 ## Hardware
 * Udacity's GPU workspace
  
+
+
+
 
 ## Results
 We Observed the following results from the modelling exercise
@@ -64,6 +78,10 @@ We Observed the following results from the modelling exercise
 ### Testing Accuracies
 * Most Frequent Class Tagger    0.9302
 * Hidden Markov Model Tagger    0.9594
+
+
+
+
 
 
 ## Conclusion
