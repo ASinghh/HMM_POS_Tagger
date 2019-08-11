@@ -52,20 +52,14 @@ Pyhton
 # Results
 We Observed the following results from the modelling exercise
 
-## Test RMSE
-* OLS     0.722622
-* Lasso   0.669559
-* Ridge   0.679769
-* PCR     0.694552
+## Training Accuracies
+* Most Frequent Class Tagger    0.9572
+* Hidden Markov Model Tagger    0.9753
 
-## Importance of predictiors
-The 5 most important predictors, based on their P-scores, in their order of importance, are  
+## Testing Accuracies
+* Most Frequent Class Tagger    0.9302
+* Hidden Markov Model Tagger    0.9594
 
-1. Avg_surf aceArea,
-2. FP067,
-3. NumNonHBonds,
-4. FP068,
-5. FP091.
 
 # Conclusion
 For our use-case, we found Ordinary Least Square method to be the most effective Linear method to model chemical solubility.
