@@ -4,7 +4,7 @@ Language Processing Nanodegree. Project starts with Most Frequent Class Tagger a
 of Hidden Markov model using probability functions which are also defined in the same notebook. Smoothing and other
 performance enhancing methods are also explored in the notebook.
 
-
+<br/>
 
 ## Hidden Markov Models
 Hidden Markov Model (HMM) is a statistical Markov model in which the system being modeled is assumed to be a Markov process
