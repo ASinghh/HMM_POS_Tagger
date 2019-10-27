@@ -1,6 +1,6 @@
 # HMM_POS_Tagger
 A python implementation of Hidden Markove Model for Parts of Speech Tagging. The project is a part of the Udacity's Natural
-Language Processing Nanodegree. Project starts with Most Frequent Class Tagger and proceeds to a pomegrannate implementation
+Language Processing Nanodegree. Structural code is from Udacity worksapce and my implementations are under the ToDo sections. Project starts with Most Frequent Class Tagger and proceeds to a pomegrannate implementation
 of Hidden Markov model using probability functions which are also defined in the same notebook. Smoothing and other
 performance enhancing methods are also explored in the notebook.
 
@@ -31,6 +31,7 @@ A hidden Markov model can be considered a generalization of a mixture model wher
 variables), which control the mixture component to be selected for each observation, are related through a Markov process 
 rather than independent of each other. Recently, hidden Markov models have been generalized to pairwise Markov models and 
 triplet Markov models which allow consideration of more complex data structures and the modeling of nonstationary data.
+**Source: Wikipedia**
 
 
 <br/>
