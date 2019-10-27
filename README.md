@@ -30,7 +30,7 @@ bioinformatics.
 A hidden Markov model can be considered a generalization of a mixture model where the hidden variables (or latent 
 variables), which control the mixture component to be selected for each observation, are related through a Markov process 
 rather than independent of each other. Recently, hidden Markov models have been generalized to pairwise Markov models and 
-triplet Markov models which allow consideration of more complex data structures and the modeling of nonstationary data.
+triplet Markov models which allow consideration of more complex data structures and the modeling of nonstationary data.<br/>
 **Source: Wikipedia**
 
 
